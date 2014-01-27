@@ -9,7 +9,7 @@
         <em:version>0.5.3</em:version>
         <em:description>Makes cookie whitelisting easy, with native Android GUI.</em:description>
         <em:creator>azrdev@qrdn.de</em:creator>
-        <em:contributor>Alexander Dietrich</em:creator>
+        <em:contributor>Alexander Dietrich</em:contributor>
         <em:homepageURL>https://github.com/azrdev/firefox-cookie-whitelister</em:homepageURL>
 
         <!-- Mobile -->
