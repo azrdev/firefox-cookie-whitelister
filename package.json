@@ -1,9 +1,11 @@
 {
-  "name": "repo",
-  "title": "repo",
-  "id": "jid1-9ha67BxGComRHg",
-  "description": "a basic add-on",
-  "author": "",
-  "license": "MPL 2.0",
-  "version": "0.1"
+  "name": "cookie-whitelist-for-fennec",
+  "title": "Cookie Whitelist for Fennec",
+  "id": "{4661a4a7-f6f7-46f4-be5f-6747e8fd21fe}",
+  "description": "Makes cookie whitelisting easy, with native Android GUI.",
+  "author": "azrdev@qrdn.de",
+  "license": "GPL 2.0",
+  "version": "0.7",
+	"contributors": ["Alexander Dietrich"],
+	"homepage": "https://github.com/azrdev/firefox-cookie-whitelister"
 }
