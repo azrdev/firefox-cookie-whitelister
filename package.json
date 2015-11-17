@@ -5,7 +5,7 @@
   "description": "Makes cookie whitelisting easy, with native Android GUI.",
   "author": "azrdev@qrdn.de",
   "license": "GPL 2.0",
-  "version": "0.9.4",
+  "version": "0.9.5",
   "contributors": ["Alexander Dietrich"],
   "homepage": "https://github.com/azrdev/firefox-cookie-whitelister"
 }
